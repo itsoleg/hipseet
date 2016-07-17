@@ -1,3 +1,11 @@
 строка №1
 строка №2
 строка №3
+
+git checkout master\parallel - меняет ветку
+git status
+git init
+git commit -m "...comment"
+git log - history
+git add . (or file.***)
+git checkout -b branch-name - new branch
