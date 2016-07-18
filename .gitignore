@@ -1,1 +1,4 @@
-_dev/bower/node_modules/prod/.idea/
+_dev/bower/
+node_modules/
+prod/
+.idea/
