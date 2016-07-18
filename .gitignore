@@ -1,4 +1,5 @@
 _dev/bower/
-_resourses/
-node_modules/prod/
+node_modules/
+prod/
+
 .idea/
